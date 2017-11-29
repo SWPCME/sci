@@ -1,0 +1,5 @@
+# File list.
+# For core.
+
+C_OBJ = \
+        base_ctl.o

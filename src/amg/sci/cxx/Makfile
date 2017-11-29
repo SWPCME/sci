@@ -1,0 +1,2 @@
+sci_ctl:
+    autogen -T std/cxx/cxx_ctl.tpl std/cxx/cxx_ctl.def

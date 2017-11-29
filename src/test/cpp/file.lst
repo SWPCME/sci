@@ -1,0 +1,15 @@
+SUB_DIR = 
+
+C_OBJ = test_earth.o
+
+# Library name
+LIB_DIR = /home/swpcme/me/usr/lib
+C_LIB_A_NAME =
+C_LIB_SO_NAME = \
+              sci
+
+# Binary file name.
+BIN_FILE = test_cpp
+
+# Backup directory.
+BACKUP_DIR = $(SRC_DIR)/../.backup

@@ -1,0 +1,19 @@
+autogen definitions sci_ctl;
+file_name = "sci_ctl";
+project = "Sci (Sci: Science).";
+purpose = "Sci control definition.";
+date_now = "2017-10";
+date_begin = "2017-09";
+date_end = "2017";
+author_name = "Weiwei Huang";
+author_email = "898687324@qq.com";
+
+namespace_name = "sci";
+file_def = "SCI_CTL_HXX_INCLUDED";
+lib = "SCI_LIB";
+class_name = "CSciCtl";
+
+cxx_file_name = "sci_ctl.cxx";
+hxx_file_name = "sci_ctl.hxx";
+
+#include ../../std/cxx/cxx_ctl.def

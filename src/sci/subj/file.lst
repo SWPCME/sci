@@ -1,0 +1,9 @@
+# File list.
+# For core.
+
+C_OBJ = \
+        subj_ctl.o
+
+SUB_DIR = \
+          phy \
+          atr
